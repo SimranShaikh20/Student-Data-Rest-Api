@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{2E92C075-42FF-4781-A190-F47A2CC26715}|RestApi.csproj|solutionrelative:controllers\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2E92C075-42FF-4781-A190-F47A2CC26715}|RestApi.csproj|c:\\users\\admin\\source\\repos\\restapi\\restapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2E92C075-42FF-4781-A190-F47A2CC26715}|RestApi.csproj|solutionrelative:restapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E92C075-42FF-4781-A190-F47A2CC26715}|RestApi.csproj|c:\\users\\admin\\source\\repos\\restapi\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E92C075-42FF-4781-A190-F47A2CC26715}|RestApi.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,17 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RestApi.http",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RestApi\\RestApi.http",
+              "RelativeDocumentMoniker": "RestApi.http",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RestApi\\RestApi.http",
+              "RelativeToolTip": "RestApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-20T07:18:19.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RestApi\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RestApi\\Student.cs*",
-              "RelativeToolTip": "Student.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RestApi\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA9wA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T05:02:47.988Z",
               "EditorCaption": ""
@@ -39,9 +56,9 @@
               "Title": "StudentData.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RestApi\\Controllers\\StudentData.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentData.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RestApi\\Controllers\\StudentData.cs*",
-              "RelativeToolTip": "Controllers\\StudentData.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RestApi\\Controllers\\StudentData.cs",
+              "RelativeToolTip": "Controllers\\StudentData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T05:01:25.6Z",
               "EditorCaption": ""
