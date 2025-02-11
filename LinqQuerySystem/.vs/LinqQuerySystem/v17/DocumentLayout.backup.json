@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\LinqQuerySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF73309-E700-402A-826D-8BBBE553B001}|LinqQuerySystem.csproj|c:\\users\\admin\\source\\repos\\linqquerysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF73309-E700-402A-826D-8BBBE553B001}|LinqQuerySystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF73309-E700-402A-826D-8BBBE553B001}|LinqQuerySystem.csproj|c:\\users\\admin\\source\\repos\\linqquerysystem\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF73309-E700-402A-826D-8BBBE553B001}|LinqQuerySystem.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF73309-E700-402A-826D-8BBBE553B001}|LinqQuerySystem.csproj|c:\\users\\admin\\source\\repos\\linqquerysystem\\studentdeatils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF73309-E700-402A-826D-8BBBE553B001}|LinqQuerySystem.csproj|solutionrelative:studentdeatils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LinqQuerySystem\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LinqQuerySystem\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T07:12:47.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDeatils.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LinqQuerySystem\\StudentDeatils.cs",
+              "RelativeDocumentMoniker": "StudentDeatils.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LinqQuerySystem\\StudentDeatils.cs",
+              "RelativeToolTip": "StudentDeatils.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T07:11:58.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LinqQuerySystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LinqQuerySystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T04:01:40.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
